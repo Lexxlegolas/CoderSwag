@@ -1,7 +1,8 @@
-package com.cerberus.coderswag
+package com.cerberus.coderswag.Controler
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.cerberus.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
